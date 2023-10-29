@@ -1,0 +1,17 @@
+{
+  "name": "hw_c7",
+  "version": "1.0.0",
+  "description": "module_C7_Homework",
+  "main": "revertStr.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Vladislav Shelkovskyn",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.17",
+    "@babel/preset-env": "^7.22.15",
+    "babel-jest": "^29.6.4",
+    "jest": "^29.6.4"
+  }
+}
